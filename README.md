@@ -6,7 +6,7 @@ Alguns scripts para facilitar o dia a dia de todos.
 
 ## 📌 Objetivos
 
-- BACKUP TABELA: [CLIQUE AQUI](.)
+- BACKUP TABELA: [CLIQUE AQUI](https://github.com/andrebmarcos/SCRIPTS_SQL_SERVER/blob/main/Backup_Tabela/backup_tabela.sql)
 
 
 ## 🎓 Resultado
